@@ -1,0 +1,30 @@
++-----------------+
+|     Node        |
++-----------------+
+| - key: int      |
+| - value: int    |
+| - prev: Node    |
+| - next: Node    |
++-----------------+
+| + Node(int, int)|
++-----------------+
+
+          ▲
+          │ (prev/next links form a doubly linked list)
+          ▼
+
++-------------------------+
+|        LRUCache        |
++-------------------------+
+| - capacity: int        |
+| - cache: HashMap<int, Node> |
+| - head: Node           |
+| - tail: Node           |
++-------------------------+
+| + LRUCache(int)        |
+| + int get(int)         |
+| + void put(int, int)   |
+| - void remove(Node)    |
+| - void addToHead(Node) |
+| + void display()       |
++-------------------------+
