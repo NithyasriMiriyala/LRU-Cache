@@ -1,5 +1,5 @@
 # LRU-Cache
-Alright! Imagine you have a tiny toy box 🎁 that can only hold **3 toys** 🧸🚗🦖 at a time.  
+Imagine you have a tiny toy box 🎁 that can only hold **3 toys** 🧸🚗🦖 at a time.  
 
 But you have **lots** of toys! 🎠🎈🐻🎯  
 
